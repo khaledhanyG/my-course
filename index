@@ -1,0 +1,61 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Khaled Genina WebDeveloper</title>
+        <meta name="describtion" content="Khaled Genina  webdeveloper is working on his skills to learn more about web developing">
+        <style>
+            h1 {
+                text-decoration: underline;
+            }
+            li {
+                margin: 10px;
+            }
+            html {
+                background-color: #87CEFA;
+            }
+            body {
+                width: 750px;
+                height: 1000px;
+                background-color: #E6E6FA;
+                padding: 20px;
+                margin: 0 auto;
+            }
+
+
+
+        </style>
+    </head>
+
+    <body>
+        <h1>Introduction to HTML</h1>
+        <ul>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML">Introduction to HTML overview.</a> [Finished 5/8]</li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">Getting started with HTML.</a> [Finished 6/8]</li>
+                <ul>
+                    <li><a href="https://developer.mozilla.org/en-US/docs/Web/HTML/Applying_color">Applying color to HTML elements using CSS.</a>[Finished 6/8]</li>
+                </ul>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML">What's in the head? Metadata in HTML.</a> [Finished 7/8]</li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/HTML_text_fundamentals">HTML text fundamentals.</a> [Current]</li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Creating_hyperlinks">Creating hyperlinks.</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting">Advanced text formatting.</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure">Document and website structure.</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Debugging_HTML">Debugging HTML.</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Marking_up_a_letter">Assessment: Marking up a letter.</a></li>
+            <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Structuring_a_page_of_content">Assessment: Structuring a page of content</a></li>
+        </ul>
+
+        <h1>Multimedia and embedding</h1>
+        <ul>
+            <li><a href=""></a></li>
+            <li><a href=""></a></li>
+        </ul>
+
+
+
+
+
+
+</body>
+
+</html>
